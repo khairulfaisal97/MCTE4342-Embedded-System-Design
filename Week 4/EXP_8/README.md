@@ -10,6 +10,6 @@ Components needed
         4           Pushbutton
         4	        1 kΩ Resistor
 
-![alt text](https://github.com/khairulfaisal97/MCTE4342-Embedded-System-Design/Week_4/EXP_8/EXP%208.png?raw=true)
+![alt text](https://github.com/khairulfaisal97/MCTE4342-Embedded-System-Design/blob/main/Week%204/EXP_8/EXP%208.png?raw=true)
 
 https://www.tinkercad.com/things/7FN9WcN6G7H
