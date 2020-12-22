@@ -12,6 +12,6 @@ Components needed
         1	        Red LED
     
 
-![alt text](https://github.com/khairulfaisal97/MCTE4342-Embedded-System-Design/Week_4/EXP_7/EXP%207.png?raw=true)
+![alt text](https://github.com/khairulfaisal97/MCTE4342-Embedded-System-Design/blob/main/Week%204/EXP_7/EXP%207.png?raw=true)
 
 https://www.tinkercad.com/things/4q9OtEPLOeZ
