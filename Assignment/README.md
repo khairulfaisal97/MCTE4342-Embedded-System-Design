@@ -4,11 +4,11 @@ https://www.instructables.com/Arduino-Game-NIM/
 ![alt text](https://content.instructables.com/ORIG/FWV/K4L3/IYV9BIO7/FWVK4L3IYV9BIO7.jpg?auto=webp&frame=1&width=800&height=1024&fit=bounds&md=2bd7b0194e8af3741e063436071a2462?raw=true)
 
 System Limitation
-1. LED indicator for winner can show limited player win
-2. Controller wired
-3. No sensor to count the ball
-4. No sound indicator for winner
-5. The ball are showing make the game easier
+1. LED indicator for winner - show limited player win
+2. Controller wired - to much wiring, and can be played short distance.
+3. No sensor to count the ball - safety and fair
+4. No sound indicator for winner - not fun
+5. The ball are showing - make the game easier
 
 Improvement
 1. Change to LCD Display that can show how many time player win
