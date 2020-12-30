@@ -16,3 +16,5 @@ Improvement
 3. Put sensor to make sure right number of ball goes down as player choose, can use ultrasonic sensor or colour sensor
 4. Put speaker/buzer to play the music for the winner
 5. Make the ball hidden and make machine to release random number ball at start of the game
+
+![alt text](https://github.com/khairulfaisal97/MCTE4342-Embedded-System-Design/blob/main/Assignment/NIM%20Game%20Sketch.png?raw=true)
