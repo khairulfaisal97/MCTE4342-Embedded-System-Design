@@ -10,7 +10,7 @@ System Limitation
 4. No sound indicator for winner - not fun
 5. The ball are showing - make the game easier
 
-Improvement
+Improvements
 1. Change to LCD Display that can show how many time player win
 2. Make wireless/bluetooth controller using HC-05 bluetooth model, also can be control using phone, more than 2 players
 3. Put sensor to make sure right number of ball goes down as player choose, can use ultrasonic sensor or colour sensor
