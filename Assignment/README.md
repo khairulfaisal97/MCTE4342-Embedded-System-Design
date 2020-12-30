@@ -12,7 +12,7 @@ System Limitation
 
 Improvement
 1. Change to LCD Display that can show how many time player win
-2. Make wireless/bluetooth controller using HC-05 bluetooth model, also can be control using phone, more that 2 players
+2. Make wireless/bluetooth controller using HC-05 bluetooth model, also can be control using phone, more than 2 players
 3. Put sensor to make sure right number of ball goes down as player choose, can use ultrasonic sensor or colour sensor
 4. Put speaker/buzer to play the music for the winner
 5. Make the ball hidden and make machine to release random number ball at start of the game
